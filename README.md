@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I am a computer science student at
+<a href="https://www.augusta.edu/" target="_blank">Augusta University</a>.
+- I like artificial intelligence and am working on an
+<a href="https://gitlab.com/william-burnley/mnist-neural-network" target="_blank">MNIST Neural Network</a> as a porfolio project.
+- I also enjoy using low level languages and could see myself as an embedded software engineer.
+
+
 <!--
 **william-burnley/william-burnley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
